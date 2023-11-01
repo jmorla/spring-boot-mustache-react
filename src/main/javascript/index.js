@@ -1,0 +1,7 @@
+
+
+module.exports = {
+    entries: [
+        'contacts'
+    ]
+}
